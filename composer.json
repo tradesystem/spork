@@ -1,14 +1,14 @@
 {
     "name": "tradesystem/spork",
     "description": "Asynchronous PHP",
-    "homepage": "https://github.com/kriswallsmith/spork",
+    "homepage": "https://github.com/tradesystem/spork",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Kris Wallsmith",
-            "email": "kris.wallsmith@gmail.com",
-            "homepage": "http://kriswallsmith.net/"
+            "name": "Alex Romanenko",
+            "email": "romanenko.a@bk.ru",
+            "homepage": "http://tradesystem.net/"
         }
     ],
     "require": {
